@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 18 10:41:11 2021
 
-@author: stabb
+@author: Harald.Norvald.Stabbetorp
 """
 """
 Date,Open,High,Low,Close,Volume,Adj Close
