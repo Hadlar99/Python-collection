@@ -2,7 +2,8 @@
 """
 Created on Thu Mar 18 10:41:11 2021
 
-@author: Harald.Norvald.Stabbetorp
+__author__ = "Harald Norvald Stabbetorp"
+__email__ = "harald.norvald.stabbetorp@nmbu.no
 """
 """
 Date,Open,High,Low,Close,Volume,Adj Close
